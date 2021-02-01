@@ -2,6 +2,6 @@
 #include <stdio.h>
 int main()
 {
-  print("supraja nuty"):
-  returna 0;
+  print("supraja nuty");
+  return 0;
 }
